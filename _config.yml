@@ -321,8 +321,8 @@ google:              googlea55eb09fe71a83cd.html
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-twitter:
-username:            sapirdooley
+#twitter:
+#username:           
 
 # Used for facebook open graph
 # facebook:
