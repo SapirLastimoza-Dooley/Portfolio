@@ -15,8 +15,8 @@ author1:
     path:            assets/img/Headshot.jpeg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+      1x:            assets/img/Headshot.jpeg
+      2x:            assets/img/Headshot.jpeg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
