@@ -21,8 +21,8 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Sapir> <Lastimoza-Dooley>
-  email:               <sapirdooley@gmail.com>
+  name:                Sapir Lastimoza-Dooley
+  email:               sapirdooley@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -70,7 +70,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /projects/
+    permalink:         /projects/:path/
     output:            true
 
 
@@ -315,14 +315,14 @@ plugins:
 # google_site_verification: <verification-id>
 # -- or --
 # webmaster_verifications:
-#   google:              <verification-id>
+google:              googlea55eb09fe71a83cd.html
 #   bing:                <verification-id>
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
-#   username:            <username>
+twitter:
+username:            sapirdooley
 
 # Used for facebook open graph
 # facebook:
