@@ -162,26 +162,40 @@ volunteer:
        
            
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
+  - institution: "Texas A&M University"
+    area: "Geographic Information Science & Technology | Minor Sustainable Architechture"
     studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
+    startDate: "2018-08-24"
+    endDate: "2021-05-04"
+    gpa: "3.733"
     courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
+      - "GEOG 476 - GIS Practicum"
+      - "GEOG 361 - Remote Sensing in Geoscience"
+      - "GEOG 306 - Intro to Urban Geography"
+      - "GEOG 478 - WEBGIS"
+      - "GEOG 475 - Advanced GIS"
+      - "GEOG 312 - Data Analysis in Geography"
+      - "CSCE 110 - Programming I"
+      - "GEOG 392 - GIS Programming"
+      - "GEOG 391 - Geodatabases"
+      - "GEOG 330 - Resources & The Environment"
+      - "GEOG 304 - Economic Geography"
+      - "GEOG 232 - Cartography & Visualization"
+      - "GEOG 325 - Intro GIS In Urban Planning"
+      - "STAT 303 - Statistical Methods"
+      - "GEOG 390 - Principals of GIS"
+      - "GEOG 352 - GNSS In The Geosciences"
 awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
+  - title: "2020 ESRI Student Assistantship"
+    date: "2020-05-01"
+    awarder: "ESRI"
+    summary: 
 publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  - name: 
+    publisher: 
+    releaseDate:
+    website: 
+    summary: 
 skills:
   - name: "Web Development"
     level: "Master"
