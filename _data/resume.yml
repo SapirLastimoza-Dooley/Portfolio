@@ -210,14 +210,14 @@ skills:
       - "ArcPy"
       - "ArcGIS Insights"
   - name: "Data Collection"
-    level: "Full professional proficiency"
+    level: "4/5"
     keywords:
       - "Drone Deploy"
       - "Garmin GPS"
       - "Leica GNSS RTK Rover"
       - "Wetlands Mapping"
   - name: "Precision Machining"
-    level: "Limited working proficiency"
+    level: "2/5"
     keywords:
       - "Carbide Motion / Create"
       - "CNC Machining "
