@@ -183,7 +183,6 @@ awards:
 
 skills:
   - name: "Web Development"
-    level: "Intermediate"
     keywords:
       - "HTML"
       - "CSS"
@@ -191,7 +190,6 @@ skills:
       - "Ruby"
       - "Git"
   - name: "GIS Development"
-    level: "Intermediate"
     keywords:
       - "ArcGIS Pro"
       - "ArcMap"
@@ -201,7 +199,6 @@ skills:
       - "Mapbox"
       - "ENVI"
   - name: "Computational Analysis"
-    level: "Intermediate"
     keywords:
       - "Python 3"
       - "R"
@@ -210,14 +207,12 @@ skills:
       - "ArcPy"
       - "ArcGIS Insights"
   - name: "Data Collection"
-    level: "4/5"
     keywords:
       - "Drone Deploy"
       - "Garmin GPS"
       - "Leica GNSS RTK Rover"
       - "Wetlands Mapping"
   - name: "Precision Machining"
-    level: "2/5"
     keywords:
       - "Carbide Motion / Create"
       - "CNC Machining "

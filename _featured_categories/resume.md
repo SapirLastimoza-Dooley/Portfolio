@@ -15,4 +15,7 @@ right_column:
   - awards
   - education
   - interests
+  no_language_icons: true
+  no_skill_icons: true
+
 ---
