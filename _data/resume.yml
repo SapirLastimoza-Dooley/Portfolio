@@ -12,9 +12,6 @@ basics:
     countryCode: "US"
     region: "Texas"
   profiles:
-    - network: "Twitter"
-      username: "sapirdooley"
-      url: "https://twitter.com/sapirdooley"
     - network: "LinkedIn"
       username: "sapirdooley"
       url: "https://www.linkedin.com/in/sapirdooley/"
@@ -28,9 +25,8 @@ work:
       "Beginning in May the TAMU GIS department, under contract of the CDC
       has been tasked with gathering data related to the COVID-19 pandemic."
     highlights:
-      - "Collected and maintained county-by-county website and contact information."
-      - "Collected and maintain county-by-county lockdown and re-opening restrictions information."
-      - "Collected and maintain county-by-county COVID-19 testing site information."
+      - "Using the python requests and beautiful soup libraries, I collected and maintained county-by-county website and contact information 
+      lockdown and re-opening restrictions information and COVID-19 testing site information."
       - "Performed geospatial characterization, analysis, and mapping using the collected county-level information."
       - "Contributed to the creation of data visualization maps, websites, and infographics using and/or drawn from the collected county-level information."
       - "Contributed to the creation of publications using and/or drawn from the collected county-level information."
@@ -54,8 +50,8 @@ work:
       "In honor of a long time friend, I and several fraternity brothers began this woodworking business in hopes that it could help with 
       his hospital bills."
     highlights:
-      - "Used Python to aggregate and analyze client location and sales data. Created cartographic products to visualize client geographic 
-      distribution and profit data in Jupyter Notebook, duplicated process in R."
+      - "Used Python pandas and numpy libraries to aggregate and analyze client location and sales data. Created cartographic products to visualize client geographic 
+      distribution and profit data in Jupyter Notebook, duplicated process in R using the dplyr and ggplot2 packages."
       - "Designed products using Carbide Create Computer Aided Design software for creation through CNC machining using the Computer Aided 
       Manufacturing Software Carbide 3D."
       - "Used Wix Content Management System to create ecommerce website (www.tkpaddles.com)"
