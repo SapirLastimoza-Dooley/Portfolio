@@ -3,11 +3,11 @@ layout:      project
 title:       project1
 date:        2 Jan 2014
 image:
-  path:       /assets/img/blog/hydejack-8.jpg
+  path:       /assets/img/blog/blog/hydejack-8.jpg
   srcset:
-    1920w:   /assets/img/blog/hydejack-8.jpg
-    960w:    /assets/img/blog/hydejack-8.jpg
-    480w:    /assets/img/blog/hydejack-8.jpg
+    1920w:   /assets/img/blog/blog/hydejack-8.jpg
+    960w:    /assets/img/blog/blog/hydejack-8.jpg
+    480w:    /assets/img/blog/blog/hydejack-8.jpg
 caption:     Hyde is a brazen two-column Jekyll theme.
 description: >
   Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme.
