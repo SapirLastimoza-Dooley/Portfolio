@@ -27,8 +27,8 @@ author:
   # twitter:             <username>
 
 menu:
-  - title:             Projects
-    url:               /projects/
+  - title:             Blog
+    url:               /blog/
   - title:             Documentation
     url:               /docs/
   - title:             About
