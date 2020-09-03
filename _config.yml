@@ -7,10 +7,8 @@ baseurl:               '/portfolio'
 # ---------------------------------------------------------------------------------------
 lang:                  en
 title:                 Sapir Carlo Lastimoza-Dooley
-description:           >
-
-# A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+description:
+tagline:               Texas A&M University '21
 
 # A list of keywords for your blog
 keywords:              []
