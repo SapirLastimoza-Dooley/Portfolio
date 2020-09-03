@@ -2,12 +2,12 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
+  name: "Sapir Carlo Lastimoza-Dooley"
   label: "Programmer"
-  picture: "https://placehold.it/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  picture: "https://media-exp1.licdn.com/dms/image/C4E03AQEicen4ocl9Tg/profile-displayphoto-shrink_200_200/0?e=1604534400&v=beta&t=5RqpW1FxqP8KQ6pTxcQmYSlufZpsWPNJqIxIBp5byG0"
+  email: "sapirdooley@gmail.com"
+  phone: 
+  website: "https://sapirlastimoza-dooley.github.io/portfolio"
   summary: >
     Richard hails from Tulsa.
     He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
@@ -18,42 +18,121 @@ basics:
     everything from quantum computing to chaos theory.
     He could tell you about it, but THAT would NOT be a “length-limited” conversation!
     Open `_data/resume.yml` to edit this text.
-  location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
+  location: 
+    address: 
+    postalCode: "77840"
+    city: "College Station"
     countryCode: "US"
-    region: "California"
+    region: "Texas"
   profiles:
     - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
+      username: "sapirdooley"
+      url: "https://twitter.com/sapirdooley"
     - network: "LinkedIn"
       username: "Richard Hendricks"
-      url: ""
+      url: "https://www.linkedin.com/in/sapirdooley/"
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "Texas A&M University"
+    position: "Student Research Assistant"
+    website: "https://geography.tamu.edu/research/gist/index.html"
+    startDate: "2020-05-01"
     endDate: ""
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+      "Beginning in May the TAMU GIS department, under contract of the CDC
+      has been tasked with gathering data related to the COVID-19 pandemic."
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      - "Collected and maintained county-by-county website and contact information."
+      - "Collected and maintain county-by-county lockdown and re-opening restrictions information."
+      - "Collected and maintain county-by-county COVID-19 testing site information."
+      - "Performed geospatial characterization, analysis, and mapping using the collected county-level information."
+      - "Contributed to the creation of data visualization maps, websites, and infographics using and/or drawn from the collected county-level information."
+      - "Contributed to the creation of publications using and/or drawn from the collected county-level information."
+  - company: "CNC Catastrophe & National Claims"
+    position: "Geospatial Analyst"
+    website: "https://adjustingexpectations.com/"
+    startDate: "2018-12-01"
+    endDate: "2019-08-01"
+    summary: >
+      "I, along with a group of four others were tasked with updating the company's 
+      database of floodplain boundaries in Florida."
+    highlights:
+      - "Analyzed building elevation using Google Earth API and applied FEMA flood map information 
+      to build Excel datasets using xlwt python library for use in catastrophe insurance adjustment and flood causality modeling."
+  - company: "TK Paddles, LLC"
+    position: "Principal Owner"
+    website: "https://tkpaddles95.wixsite.com/tkpaddles"
+    startDate: "2017-06-01"
+    endDate: ""
+    summary: >
+      "In honor of a long time friend, I and several fraternity brothers began this woodworking business in hopes that it could help with 
+      his hospital bills."
+    highlights:
+      - "Used Python to aggregate and analyze client location and sales data. Created cartographic products to visualize client geographic 
+      distribution and profit data in Jupyter Notebook, duplicated process in R."
+      - "Designed products using Carbide Create Computer Aided Design software for creation through CNC machining using the Computer Aided 
+      Manufacturing Software Carbide 3D."
+      - "Used Wix Content Management System to create ecommerce website (www.tkpaddles.com)"
+  - company: "40 Tempura Sushi"
+    position: "Head Server"
+    website: "https://www.instagram.com/40_tempura/?hl=en"
+    startDate: "2016-12-01"
+    endDate: ""
+    summary: 
+    highlights:
+    - "Trained incoming staff regarding workplace procedure, culture, and practices."
+    - "Provided excellent customer service: worked closely with restaurant staff to ensure orders were served in an efficient manner."
+    - "Refined multitasking, communication, and conflict resolution skills."
+
 volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
+  - organization: "Beta Tau Omega Fraternity, Inc."
+    position: "President, Head of Recruitment, Parliamentarian, Fundraising Chair, Treasurer, Choreography Chair"
+    website: "https://www.betatauomega.com/"
+    startDate: "2016-08-01"
+    endDate: ""
+    summary: "Since its founding, Beta Tau Omega has been a pillar of the Asian American community at Texas A&M and 
+    remains the one of the few Asian Interest Fraternity in Texas to be continuously recognized by its school since it was founded."
     highlights:
-      - "Awarded 'Teacher of the Month'"
+      - "Established an effective and lasting system of organization and project management through committee creation and task management workshops."
+      - "Planned and proposed comprehensive plan for fraternity expansion to alumni base and collected above $200,000 in donations."
+      - "Led the vetting and recruitment of new members for the Fall 2018 school semester."
+      - "Ensured scholastic accountability and led group in philanthropic endeavors including Gastric Cancer Research, Habitat for Humanity, and Aggie Replant."
+      - "Created budgets relating to all fraternity projects and organized fraternity accounts for streamlined use."
+      - "Led fundraising events on and off campus and spearheaded apparel fundraising campaigns."
+      - "Awarded 'Community Engagement Award'"
+      - "Ensured scholastic accountability and led group in philanthropic endeavors."
+      - "Highest consecutive recruitment numbers in over 10 years"
+      - "Awarded 'Brother of the Year'"
+  - organization: "Student Geosciences Council"
+    position: "Fundraising Chair"
+    website: "https://maroonlink.tamu.edu/organization/sgc"
+    startDate: "2018-08-01"
+    endDate: "2019-08-01"
+    summary: "The Student Geosciences Council provides a vital link between students, faculty, administration, and community in an attempt to enrich 
+    the intellectual, social and professional impetus of Texas A&M Geosciences Students."
+    highlights:
+      - "Spokesperson to other organizations at public events and maintained relationships with them."
+      - "Graphically designed all invitations, flyers, and public advertisement for organization."
+      - "Created a custom webpage and managed all social media accounts for the organization."
+  - organization: "The Big Event"
+    position: "Volunteer"
+    website: "https://bigevent.tamu.edu/"
+    startDate: "2016-08-01"
+    endDate: ""
+    summary: "Through service-oriented activities, The Big Event promotes campus and community unity as students come together for one day to express 
+    their gratitude for the support from the surrounding community."
+  - organization: "Taking Root"
+    position: "Volunteer"
+    website: "https://takingroot.info/"
+    startDate: "2017-08-01"
+    endDate: ""
+    summary: "Mission: To inspire and empower all to conserve and improve our region’s unique and threatened tree canopy"
+  - organization: "The Aggieland Human Society"
+    position: "Volunteer"
+    website: "https://takingroot.info/"
+    startDate: "2017-08-01"
+    endDate: ""
+    summary: "Mission: To inspire and empower all to conserve and improve our region’s unique and threatened tree canopy"
+          
 education:
   - institution: "University of Oklahoma"
     area: "Information Technology"
