@@ -1,6 +1,3 @@
-# If you have a `resume.json` file, copy it into `_data` and delete this file.
-# If you don't have a JSON Resume you can just edit this YAML file instead.
-# See also: <https://jsonresume.org/>.
 basics:
   name: "Sapir Carlo Lastimoza-Dooley"
   label: "Programmer"
@@ -128,11 +125,42 @@ volunteer:
     summary: "Mission: To inspire and empower all to conserve and improve our region’s unique and threatened tree canopy"
   - organization: "The Aggieland Human Society"
     position: "Volunteer"
-    website: "https://takingroot.info/"
-    startDate: "2017-08-01"
+    website: "https://aggielandhumane.org/"
+    startDate: "2016-08-01"
     endDate: ""
-    summary: "Mission: To inspire and empower all to conserve and improve our region’s unique and threatened tree canopy"
-          
+    summary: "The Aggieland Humane Society provides humane care and placement for homeless and abandoned animals, promotes the 
+    human-animal bond and promotes responsible pet ownership to enhance the quality of life for the people and animals in our community."
+  - organization: "The League of United Latin American Citizens (LULAC)"
+    position: "Volunteer"
+    website: "https://lulac.org/"
+    startDate: "2018-08-01"
+    endDate: ""
+    summary: "LULAC is the largest and oldest Hispanic organization in the United States. LULAC advances the economic condition, 
+    educational attainment, political influence, housing, health and civil rights of Hispanic Americans through community-based programs 
+    operating at more than 1,000 LULAC councils nationwide. The organization involves and serves all Hispanic nationality groups."
+  - organization: "Adopt-A-Street"
+    position: "Volunteer"
+    website: "https://www.cstx.gov/departments___city_hall/publicworks/adopt-_a-_street_program"
+    startDate: "2016-08-01"
+    endDate: ""
+    summary: "The City of College Station's Adopt-A-Street program was launched in the Fall of 1988 to provide residents, businesses, 
+    neighborhood associations, community organizations, and student groups the opportunity to enhance the aesthetics of their community by 
+    collecting litter within the right-of-way of a TxDOT or city-maintained street or section of a street."
+  - organization: "The Leadership Education for APIDA Development Conference (LEAD)"
+    position: "Volunteer"
+    website: "http://www.tamuapc.org/aboutlead"
+    startDate: "2016-08-01"
+    endDate: ""
+    summary: "Leadership Education for APIDA Development (LEAD) is a one day conference hosted at Texas A&M. LEAD aims to support and 
+    advocate for the Asian Pacific Islander Desi American (APIDA) community by fostering identity growth and leadership development. "
+  - organization: "Habitat for Humanity"
+    position: "Volunteer"
+    website: "https://www.habitat.org/"
+    startDate: "2018-08-01"
+    endDate: ""
+    summary: "Seeking to put God’s love into action, Habitat for Humanity brings people together to build homes, communities and hope."
+       
+           
 education:
   - institution: "University of Oklahoma"
     area: "Information Technology"
