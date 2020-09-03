@@ -1,9 +1,9 @@
 ---
 layout:      project
-title:       project1
+title:       project1*
 date:        2 Jan 2014
 image:
-  path:       /assets/img/blog/blog/hydejack-8.jpg
+  path:       /jekyll-theme-hydejack/assets/img/ogo.png
  # srcset:
     #1920w:   /assets/img/blog/blog/hydejack-8.jpg
    # 960w:    /assets/img/blog/blog/hydejack-8.jpg

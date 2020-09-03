@@ -70,7 +70,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /_projects/:name/
+    permalink:         /projects/:path/
     output:            true
 
 
@@ -394,3 +394,4 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
