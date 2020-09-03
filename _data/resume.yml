@@ -191,7 +191,7 @@ skills:
       - "Ruby"
       - "Git"
   - name: "GIS Development"
-    level: "Advanced"
+    level: "Intermediate"
     keywords:
       - "ArcGIS Pro"
       - "ArcMap"
@@ -201,7 +201,7 @@ skills:
       - "Mapbox"
       - "ENVI"
   - name: "Computational Analysis"
-    level: "Proficient"
+    level: "Intermediate"
     keywords:
       - "Python 3"
       - "R"
@@ -210,14 +210,14 @@ skills:
       - "ArcPy"
       - "ArcGIS Insights"
   - name: "Data Collection"
-    level: "Practitioner"
+    level: "Full professional proficiency"
     keywords:
       - "Drone Deploy"
       - "Garmin GPS"
       - "Leica GNSS RTK Rover"
       - "Wetlands Mapping"
   - name: "Precision Machining"
-    level: "Hobbyist"
+    level: "Limited working proficiency"
     keywords:
       - "Carbide Motion / Create"
       - "CNC Machining "
