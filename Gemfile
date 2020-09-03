@@ -14,7 +14,7 @@ group :jekyll_plugins do
   gem "github-pages"
   gem "jekyll-include-cache"
   gem "jekyll-compose"
-  gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
+  gem "jekyll-theme-hydejack"
 end
 
 gem 'wdm' if Gem.win_platform?
