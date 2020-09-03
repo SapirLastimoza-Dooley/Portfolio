@@ -29,8 +29,8 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-  - title:             Documentation
-    url:               /docs/
+  - title:             Resume
+    url:               /resume/
   - title:             Projects
     url:               /projects/
   - title:             About
