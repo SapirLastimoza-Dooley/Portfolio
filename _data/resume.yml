@@ -6,15 +6,9 @@ basics:
   phone: 
   website: "https://sapirlastimoza-dooley.github.io/portfolio"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    I am a Texas A&M Geographic Information Science student, graduating in the Spring of 2021 and minoring in Sustainable Architechture. I love music, woodworking, and of course - geography. 
+    I possess a comprehensive skill set and passion for everything I do. I am searching for a career that will not only allow me to serve the community, but also provide an opportunity
+    to grow and expand my knowledge of the profession and address areas in which I can improve.
   location: 
     address: 
     postalCode: "77840"
@@ -198,27 +192,73 @@ publications:
     summary: 
 skills:
   - name: "Web Development"
-    level: "Master"
+    level: "Intermediate"
     keywords:
       - "HTML"
       - "CSS"
       - "Javascript"
-  - name: "Compression"
-    level: "Master"
+      - "Ruby"
+      - "Git"
+  - name: "GIS Development"
+    level: "Advanced"
     keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
-languages:
-  - language: "English"
-    fluency: "Native speaker"
-interests:
-  - name: "Wildlife"
+      - "ArcGIS Pro"
+      - "ArcMap"
+      - "Google Earth Engine"
+      - "SQL Server"
+      - "Leaflet"
+      - "Mapbox"
+      - "ENVI"
+  - name: "Computational Analysis"
+    level: "Proficient"
     keywords:
-      - "Ferrets"
-      - "Unicorns"
+      - "Python 3"
+      - "R"
+      - "Jupyter"
+      - "SQL Server"
+      - "ArcPy"
+      - "ArcGIS Insights"
+  - name: "Data Collection"
+    level: "Practitioner"
+    keywords:
+      - "Drone Deploy"
+      - "Garmin GPS"
+      - "Leica GNSS RTK Rover"
+      - "Wetlands Mapping"
+  - name: "Precision Machining"
+    level: "Hobbyist"
+    keywords:
+      - "Carbide Motion / Create"
+      - "CNC Machining "
+      - "AutoCAD"
+      - "Fusion 360"
+  
 references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+  - name: "Sang Tran"
+    reference:
+      - "GIS Analyst"
+      - "Houston Emergency Center"
+      - "901 Bagby St. Houston, TX 77002"
+      - "(281) 515-5523"
+      - "sang.hoang.tran@outlook.com"
+  - name: "Victoria Le"
+    reference:
+      - "Recruiter"
+      - "Connective Talent"
+      - "3555 Timmons Ln #1500, Houston, TX 77027"
+      - "(832) 392-7398"
+      - "vle@connectivetalent.com"
+  - name: "Daniel Goldberg"
+    reference:
+      - "Associate Proffesor"
+      - "Texas A&M University"
+      - "400 Bizzell St. College Station, TX 77843"
+      - "(979) 845-6395"
+      - "daniel.goldberg@tamu.edu"
+  - name: "Kim Hyun"
+    reference:
+      - "Owner"
+      - "40 Tempura Sushi"
+      - "2551 Texas Ave S. Suite D, College Station, TX 77840"
+      - "(979) 229-0291)"
+      - "40tempura@gmail.com"      
