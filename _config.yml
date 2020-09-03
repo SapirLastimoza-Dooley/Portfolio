@@ -70,7 +70,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /_collections/_projects/:name/
+    permalink:         /_projects/:name/
     output:            true
 
 
