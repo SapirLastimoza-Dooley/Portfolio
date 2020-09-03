@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       Hyde v2*
+title:       project1
 date:        2 Jan 2014
 image:
   path:       /assets/img/blog/hydejack-8.jpg.jpg
