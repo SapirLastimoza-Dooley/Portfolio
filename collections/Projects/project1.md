@@ -17,6 +17,6 @@ links:
     url:     http://hyde.getpoole.com
   - title:   Source
     url:     https://github.com/poole/hyde
-featured:    false
+featured:    true
 ---
 
