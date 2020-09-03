@@ -1,3 +1,7 @@
+--- 
+title: resume
+ref: my-body.html
+---
 basics:
   name: "Sapir Carlo Lastimoza-Dooley"
   label: "Programmer"
@@ -20,7 +24,7 @@ basics:
       username: "sapirdooley"
       url: "https://twitter.com/sapirdooley"
     - network: "LinkedIn"
-      username: "Richard Hendricks"
+      username: "sapirdooley"
       url: "https://www.linkedin.com/in/sapirdooley/"
 work:
   - company: "Texas A&M University"
@@ -184,12 +188,7 @@ awards:
     date: "2020-05-01"
     awarder: "ESRI"
     summary: 
-publications:
-  - name: 
-    publisher: 
-    releaseDate:
-    website: 
-    summary: 
+
 skills:
   - name: "Web Development"
     level: "Intermediate"
@@ -232,33 +231,5 @@ skills:
       - "CNC Machining "
       - "AutoCAD"
       - "Fusion 360"
-  
-references:
-  - name: "Sang Tran"
-    reference:
-      - "GIS Analyst"
-      - "Houston Emergency Center"
-      - "901 Bagby St. Houston, TX 77002"
-      - "(281) 515-5523"
-      - "sang.hoang.tran@outlook.com"
-  - name: "Victoria Le"
-    reference:
-      - "Recruiter"
-      - "Connective Talent"
-      - "3555 Timmons Ln #1500, Houston, TX 77027"
-      - "(832) 392-7398"
-      - "vle@connectivetalent.com"
-  - name: "Daniel Goldberg"
-    reference:
-      - "Associate Proffesor"
-      - "Texas A&M University"
-      - "400 Bizzell St. College Station, TX 77843"
-      - "(979) 845-6395"
-      - "daniel.goldberg@tamu.edu"
-  - name: "Kim Hyun"
-    reference:
-      - "Owner"
-      - "40 Tempura Sushi"
-      - "2551 Texas Ave S. Suite D, College Station, TX 77840"
-      - "(979) 229-0291)"
-      - "40tempura@gmail.com"      
+
+
