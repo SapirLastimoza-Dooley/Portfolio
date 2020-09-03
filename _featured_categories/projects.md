@@ -1,12 +1,10 @@
 ---
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
-layout: projects
+layout: list
 
 # The title of the tag's page.
 title: Projects
 
-show_collection: projects
-featured: true
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: projects
 
