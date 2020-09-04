@@ -53,23 +53,20 @@ work:
       - "Designed products using Carbide Create Computer Aided Design software for creation through CNC machining using the Computer Aided 
       Manufacturing Software Carbide 3D."
       - "Used Wix Content Management System to create ecommerce website (www.tkpaddles.com)"
-  - company: "GIS Programming"
-    position: "Course Project"
+  - company: "GIS Programming Course Project"
     startDate: "2019-08-01"
     endDate: "2019-12-01"
     summary: 
     highlights:
     - "Used Python Requests from ArcGIS API to gather car crash data from Iowa counties. Used SOMPY and Pandas Python libraries and machine-learning methods to create self-organizing maps to depict general temporal trends and spatial distributions"
-  - company: "GNSS in Geosciences"
-    position: "Course Project"
+  - company: "GNSS in Geosciences Course Project"
     startDate: "2019-01-01"
     endDate: "2019-05-01"
     summary: 
     highlights:
     - "Analyzed CORS base station velocity data from NOAA database to determine projected shifts in spatial data with the implementation of TRF 2022 datum. Compared data to on-site data collected using Leica GNSS RTK rover within Excel and ArcGIS Pro python library."
     - "Collected information on spatial-related policy in environmental, energy, and infrastructure sectors and determined datum’s possible effects on said policy."
-  - company: "Human Geography"
-    position: "Course Project"
+  - company: "Human Geography Course Project"
     startDate: "2019-01-01"
     endDate: "2019-05-01"
     summary: 
