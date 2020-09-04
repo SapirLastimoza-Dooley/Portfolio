@@ -25,8 +25,7 @@ work:
       "Beginning in May the TAMU GIS department, under contract of the CDC
       has been tasked with gathering data related to the COVID-19 pandemic."
     highlights:
-      - "Using the python requests and beautiful soup libraries, I collected and maintained county-by-county website and contact information 
-      lockdown and re-opening restrictions information and COVID-19 testing site information."
+      - "Created Python web scraper for collecting COVID-19 testing site and lock-down information using Beautiful Soup and Python Requests for storage in SQL database."
       - "Performed geospatial characterization, analysis, and mapping using the collected county-level information."
       - "Contributed to the creation of data visualization maps, websites, and infographics using and/or drawn from the collected county-level information."
       - "Contributed to the creation of publications using and/or drawn from the collected county-level information."
@@ -39,8 +38,7 @@ work:
       "I, along with a group of four others were tasked with updating the company's 
       database of floodplain boundaries in Florida."
     highlights:
-      - "Analyzed building elevation using Google Earth API and applied FEMA flood map information 
-      to build Excel datasets using xlwt python library for use in catastrophe insurance adjustment and flood causality modeling."
+      - "Used Python Requests from Google Earth API to collect elevation and location data, cleaned and sorted data using xlwt Python library. Compared data to FEMA flood map data and produced infographics and digital visualizations using Python Pandas library."
   - company: "TK Paddles, LLC"
     position: "Principal Owner"
     website: "https://tkpaddles95.wixsite.com/tkpaddles"
@@ -50,11 +48,36 @@ work:
       "In honor of a long time friend, I and several fraternity brothers began this woodworking business in hopes that it could help with 
       his hospital bills."
     highlights:
-      - "Used Python pandas and numpy libraries to aggregate and analyze client location and sales data. Created cartographic products to visualize client geographic 
-      distribution and profit data in Jupyter Notebook, duplicated process in R using the dplyr and ggplot2 packages."
+      - "Used Pandas and Numpy Python and Jupyter Notebook to analyze customer demographic and sales data. Produced infographics and digital visualizations to analyze data for spatio-temporal trends and predict future profit margins."
+      - "Duplicated process in R using dplyr and ggplot2 packages to check for inconsistencies."
       - "Designed products using Carbide Create Computer Aided Design software for creation through CNC machining using the Computer Aided 
       Manufacturing Software Carbide 3D."
       - "Used Wix Content Management System to create ecommerce website (www.tkpaddles.com)"
+  - company: "GIS Programming"
+    position: "Course Project"
+    startDate: "2019-08-01"
+    endDate: "2019-12-01"
+    summary: 
+    highlights:
+    - "Used Python Requests from ArcGIS API to gather car crash data from Iowa counties. Used SOMPY and Pandas Python libraries and machine-learning methods to create self-organizing maps to depict general temporal trends and spatial distributions"
+  - company: "GNSS in Geosciences"
+    position: "Course Project"
+    startDate: "2019-01-01"
+    endDate: "2019-05-01"
+    summary: 
+    highlights:
+    - "Analyzed CORS base station velocity data from NOAA database to determine projected shifts in spatial data with the implementation of TRF 2022 datum. Compared data to on-site data collected using Leica GNSS RTK rover within Excel and ArcGIS Pro python library."
+    - "Collected information on spatial-related policy in environmental, energy, and infrastructure sectors and determined datum’s possible effects on said policy."
+  - company: "Human Geography"
+    position: "Course Project"
+    startDate: "2019-01-01"
+    endDate: "2019-05-01"
+    summary: 
+    highlights:
+    - "Used Python requests library to collect data from USGS and Census online data repositories then applied statistical methods to analyze North American population density information using ArcGIS Pro python library and ArcCatalog. "
+    - "Examined data to determine trends across ethnic groups and occupations using both structured and unstructured data within Excel and ArcCatalog."
+       
+  
   - company: "40 Tempura Sushi"
     position: "Head Server"
     website: "https://www.instagram.com/40_tempura/?hl=en"
