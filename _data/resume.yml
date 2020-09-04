@@ -1,3 +1,4 @@
+
 basics:
   name: "Sapir Carlo Lastimoza-Dooley"
   label: "Geographer, Programmer, Business Owner"
@@ -53,28 +54,6 @@ work:
       - "Designed products using Carbide Create Computer Aided Design software for creation through CNC machining using the Computer Aided 
       Manufacturing Software Carbide 3D."
       - "Used Wix Content Management System to create ecommerce website (www.tkpaddles.com)"
-  - company: "GIS Programming Course Project"
-    startDate: "2019-08-01"
-    endDate: "2019-12-01"
-    summary: 
-    highlights:
-    - "Used Python Requests from ArcGIS API to gather car crash data from Iowa counties. Used SOMPY and Pandas Python libraries and machine-learning methods to create self-organizing maps to depict general temporal trends and spatial distributions"
-  - company: "GNSS in Geosciences Course Project"
-    startDate: "2019-01-01"
-    endDate: "2019-05-01"
-    summary: 
-    highlights:
-    - "Analyzed CORS base station velocity data from NOAA database to determine projected shifts in spatial data with the implementation of TRF 2022 datum. Compared data to on-site data collected using Leica GNSS RTK rover within Excel and ArcGIS Pro python library."
-    - "Collected information on spatial-related policy in environmental, energy, and infrastructure sectors and determined datum’s possible effects on said policy."
-  - company: "Human Geography Course Project"
-    startDate: "2019-01-01"
-    endDate: "2019-05-01"
-    summary: 
-    highlights:
-    - "Used Python requests library to collect data from USGS and Census online data repositories then applied statistical methods to analyze North American population density information using ArcGIS Pro python library and ArcCatalog. "
-    - "Examined data to determine trends across ethnic groups and occupations using both structured and unstructured data within Excel and ArcCatalog."
-       
-  
   - company: "40 Tempura Sushi"
     position: "Head Server"
     website: "https://www.instagram.com/40_tempura/?hl=en"
@@ -85,6 +64,66 @@ work:
     - "Trained incoming staff regarding workplace procedure, culture, and practices."
     - "Provided excellent customer service: worked closely with restaurant staff to ensure orders were served in an efficient manner."
     - "Refined multitasking, communication, and conflict resolution skills."
+
+  - company: "Texas A&M"
+    position: "GIS Programming Course Project"
+    startDate: "2019-08-01"
+    endDate: "2019-12-01"
+    summary: "Iowa Vehicle Crash Temporal Analysis"
+    highlights:
+    - "Used Python Requests from ArcGIS API to gather car crash data from Iowa counties. Used SOMPY and Pandas Python libraries and machine-learning methods to create self-organizing maps to depict general temporal trends and spatial distributions"
+  - company: "Texas A&M"
+    position: "Programming I Course Project"
+    startDate: "2020-01-01"
+    endDate: "2020-05-01"
+    summary: "Car Dealership Data Analysis"
+    highlights:
+    - "Used Pandas and Numpy Python libraries to produce statistical analysis of specific attributes and produce meaningful infographic visualizations. Generated API documentation using pdoc."
+  - company: "Texas A&M"
+    position: "GNSS in Geosciences Course Project"
+    startDate: "2019-01-01"
+    endDate: "2019-05-01"
+    summary: "TRF 2022 Evaluation"
+    highlights:
+    - "Analyzed CORS base station velocity data from NOAA database to determine projected shifts in spatial data with the implementation of TRF 2022 datum. Compared data to on-site data collected using Leica GNSS RTK rover within Excel and ArcGIS Pro python library."
+    - "Collected information on spatial-related policy in environmental, energy, and infrastructure sectors and determined datum’s possible effects on said policy."
+  - company: "Texas A&M"
+    position: "Human Geography Course Project"
+    startDate: "2019-01-01"
+    endDate: "2019-05-01"
+    summary: "Population Density Mapping"
+    highlights:
+    - "Used Python requests library to collect data from USGS and Census online data repositories then applied statistical methods to analyze North American population density information using ArcGIS Pro python library and ArcCatalog. "
+    - "Examined data to determine trends across ethnic groups and occupations using both structured and unstructured data within Excel and ArcCatalog."
+  - company: "Texas A&M"
+    position: "Physical Geography Course Project"
+    startDate: "2018-08-01"
+    endDate: "2018-12-01"
+    summary: "Death Valley Data Collection"
+    highlights:
+    - "Used Python requests library to gather data from USGS repository for the physical geography and climatic profile of Death Valley, CA. Examined data to test hypotheses and present findings through ArcGIS Pro python library."
+  - company: "Texas A&M"
+    position: "Principles of GIS Course Project"
+    startDate: "2018-08-01"
+    endDate: "2018-12-01"
+    summary: "SEC Data Analysis"
+    highlights:
+    - "Used Python requests library to gather data from USGS repository for the physical geography and climatic profile of Death Valley, CA. Examined data to test hypotheses and present findings through ArcGIS Pro python library."
+  - company: "Texas A&M"
+    position: "WebGIS Course Lab"
+    startDate: "2020-01-01"
+    endDate: "2020-02-01"
+    summary: "3D Web Mapping"
+    highlights:
+    - "Used ArcGIS JS to create ArcGIS SceneLayer of class commute in ArcGIS StoryMap."
+  - company: "Texas A&M"
+    position: "WebGIS Course Lab"
+    startDate: "2020-01-01"
+    endDate: "2020-02-01"
+    summary: "U.S. City Data Visualzation"
+    highlights:
+    - "Used D3 and HighCharts to create data visualization of U.S. city population and demographic data in ArcGIS Dashboard"
+
 
 volunteer:
   - organization: "Beta Tau Omega Fraternity, Inc."
