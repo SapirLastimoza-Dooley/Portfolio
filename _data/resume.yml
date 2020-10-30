@@ -16,6 +16,9 @@ basics:
     - network: "LinkedIn"
       username: "sapirdooley"
       url: "https://www.linkedin.com/in/sapirdooley/"
+    - network: "GitHub"
+      username: "SapirLastimoza-Dooley"
+      url: "https://github.com/SapirLastimoza-Dooley" 
 work:
   - company: "Texas A&M University"
     position: "Student Research Assistant"
