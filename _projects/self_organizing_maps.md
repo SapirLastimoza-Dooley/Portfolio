@@ -21,6 +21,7 @@ links:
 featured:    true
 ---
 
+
 ## Summary
 - Project Lead: Shuyang Zhang
 - Project Members: Arielle Wood, Gabriel Ibiassi Nambila, Luke Anderton, Sapir Carlo Dooley
@@ -32,8 +33,8 @@ featured:    true
 ## Outcomes
 ![Crash Distribution](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/crash_distribution.png)
 
-Car crashes distribution in Polk County and Scott County, IA (2011-2016).
 Fig. 1: Spatial distribution of car crashes in Polk County and Scott County, IA (2011-2016).
 {:.figcaption}
 
-![Monthly Heatmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/year_heatmap.png)
+![Monthly Heatmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/year_heatmap.png) | ![Monthly Distribution](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/monthly_distribution.png)
+
