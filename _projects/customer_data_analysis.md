@@ -22,7 +22,6 @@ featured:    true
 - Data Source: TK Paddles LLC
 - Programs Used: Rstudio, Jupyter Notebook
 - Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
-- Outcomes: Maps, Heatmaps
+- Outcomes: Maps, Line Plots, Whisker Plots, Dot Plots
 
-![Full-width image](https://github.com/SapirLastimoza-Dooley/self_organizing_maps/blob/main/figures/year_heatmap.png){:.lead width="800" height="100" loading="lazy"}
 
