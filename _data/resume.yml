@@ -64,14 +64,20 @@ work:
     - "Trained incoming staff regarding workplace procedure, culture, and practices."
     - "Provided excellent customer service: worked closely with restaurant staff to ensure orders were served in an efficient manner."
     - "Refined multitasking, communication, and conflict resolution skills."
-
+  - company: "Texas A&M"
+    position: "GIS Practicum Course Project"
+    startDate: "2020-08-01"
+    endDate: "2020-31-01"
+    summary: "Instagram Web Scraper"
+    highlights:
+    - "●	Used python 3 and selenium web driver to scrape potential customer data from atypical source. Used data to produce a live map of target locations for use in TK Paddles, LLC marketing strategy."
   - company: "Texas A&M"
     position: "GIS Programming Course Project"
     startDate: "2019-08-01"
     endDate: "2019-12-01"
     summary: "Iowa Vehicle Crash Temporal Analysis"
     highlights:
-    - "Used Python Requests from ArcGIS API to gather car crash data from Iowa counties. Used SOMPY and Pandas Python libraries and machine-learning methods to create self-organizing maps to depict general temporal trends and spatial distributions"
+    - "Used Python Requests from ArcGIS API to gather car crash data from Iowa counties. Used SOMPY and Pandas Python libraries and machine-learning methods to create self-organizing maps to depict general temporal trends and spatial distributions."
   - company: "Texas A&M"
     position: "Programming I Course Project"
     startDate: "2020-01-01"

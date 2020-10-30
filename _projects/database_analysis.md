@@ -18,7 +18,7 @@ links:
 featured:    true
 ---
 
-Data Source: TAMU Programming I
-Programs Used: Visual Studio Code, Pdoc Documentation Generator
-Languages Used: Python- mathplotlib, numpy, pandas
-Outcomes: Pie Charts, Bar Charts, Line Charts
+- Data Source: TAMU Programming I
+- Programs Used: Visual Studio Code, Pdoc Documentation Generator
+- Languages Used: Python- mathplotlib, numpy, pandas
+- Outcomes: Pie Charts, Bar Charts, Line Charts

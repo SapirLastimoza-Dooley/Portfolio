@@ -18,7 +18,7 @@ links:
 featured:    true
 ---
 
-Data Source: Instagram
-Programs Used: Visual Studio Code
-Languages Used: Python- Selenium Webdriver, ArcPy
-Outcomes: Automated Testing Script, Maps
+- Data Source: Instagram
+- Programs Used: Visual Studio Code
+- Languages Used: Python- Selenium Webdriver, ArcPy
+- Outcomes: Automated Testing Script, Maps
