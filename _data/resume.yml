@@ -67,71 +67,7 @@ work:
     - "Trained incoming staff regarding workplace procedure, culture, and practices."
     - "Provided excellent customer service: worked closely with restaurant staff to ensure orders were served in an efficient manner."
     - "Refined multitasking, communication, and conflict resolution skills."
-  - company: "Texas A&M"
-    position: "GIS Practicum Course Project"
-    startDate: "2020-08-01"
-    endDate: ""
-    summary: "Instagram Web Scraper"
-    highlights:
-    - "Used python 3 and selenium web driver to scrape potential customer data from atypical source. Used data to produce a live map of target locations for use in TK Paddles, LLC marketing strategy."
-  - company: "Texas A&M"
-    position: "GIS Programming Course Project"
-    startDate: "2019-08-01"
-    endDate: "2019-12-01"
-    summary: "Iowa Vehicle Crash Temporal Analysis"
-    highlights:
-    - "Used Python Requests from ArcGIS API to gather car crash data from Iowa counties. Used SOMPY and Pandas Python libraries and machine-learning methods to create self-organizing maps to depict general temporal trends and spatial distributions."
-  - company: "Texas A&M"
-    position: "Programming I Course Project"
-    startDate: "2020-01-01"
-    endDate: "2020-05-01"
-    summary: "Car Dealership Data Analysis"
-    highlights:
-    - "Used Pandas and Numpy Python libraries to produce statistical analysis of specific attributes and produce meaningful infographic visualizations. Generated API documentation using pdoc."
-  - company: "Texas A&M"
-    position: "GNSS in Geosciences Course Project"
-    startDate: "2019-01-01"
-    endDate: "2019-05-01"
-    summary: "TRF 2022 Evaluation"
-    highlights:
-    - "Analyzed CORS base station velocity data from NOAA database to determine projected shifts in spatial data with the implementation of TRF 2022 datum. Compared data to on-site data collected using Leica GNSS RTK rover within Excel and ArcGIS Pro python library."
-    - "Collected information on spatial-related policy in environmental, energy, and infrastructure sectors and determined datum’s possible effects on said policy."
-  - company: "Texas A&M"
-    position: "Human Geography Course Project"
-    startDate: "2019-01-01"
-    endDate: "2019-05-01"
-    summary: "Population Density Mapping"
-    highlights:
-    - "Used Python requests library to collect data from USGS and Census online data repositories then applied statistical methods to analyze North American population density information using ArcGIS Pro python library and ArcCatalog. "
-    - "Examined data to determine trends across ethnic groups and occupations using both structured and unstructured data within Excel and ArcCatalog."
-  - company: "Texas A&M"
-    position: "Physical Geography Course Project"
-    startDate: "2018-08-01"
-    endDate: "2018-12-01"
-    summary: "Death Valley Data Collection"
-    highlights:
-    - "Used Python requests library to gather data from USGS repository for the physical geography and climatic profile of Death Valley, CA. Examined data to test hypotheses and present findings through ArcGIS Pro python library."
-  - company: "Texas A&M"
-    position: "Principles of GIS Course Project"
-    startDate: "2018-08-01"
-    endDate: "2018-12-01"
-    summary: "SEC Data Analysis"
-    highlights:
-    - "Used Python requests library to gather data from USGS repository for the physical geography and climatic profile of Death Valley, CA. Examined data to test hypotheses and present findings through ArcGIS Pro python library."
-  - company: "Texas A&M"
-    position: "WebGIS Course Lab"
-    startDate: "2020-01-01"
-    endDate: "2020-02-01"
-    summary: "3D Web Mapping"
-    highlights:
-    - "Used ArcGIS JS to create ArcGIS SceneLayer of class commute in ArcGIS StoryMap."
-  - company: "Texas A&M"
-    position: "WebGIS Course Lab"
-    startDate: "2020-01-01"
-    endDate: "2020-02-01"
-    summary: "U.S. City Data Visualzation"
-    highlights:
-    - "Used D3 and HighCharts to create data visualization of U.S. city population and demographic data in ArcGIS Dashboard"
+
 
 
 volunteer:
@@ -167,31 +103,42 @@ volunteer:
   - organization: "The Big Event"
     position: "Volunteer"
     website: "https://bigevent.tamu.edu/"
-    startDate: "2016-08-01"
-    endDate: ""
+    startDate: "2016-05-01"
+    endDate: "2018-05-01"
     summary: "Through service-oriented activities, The Big Event promotes campus and community unity as students come together for one day to express 
     their gratitude for the support from the surrounding community."
+    highlights:
+      - "Helped College Station residents with landscaping and groundskeeping."
+      - "Assisted in the construction of new housing in the Bryan area."
   - organization: "Taking Root"
     position: "Volunteer"
     website: "https://takingroot.info/"
     startDate: "2017-08-01"
-    endDate: ""
+    endDate: "2018-01-15"
     summary: "Mission: To inspire and empower all to conserve and improve our region’s unique and threatened tree canopy"
+    highlights:
+      - "Planted over 500 trees to help restore areas around flooded lakes in Bryan/College Station."
+      - "Assisted in the construction of new housing in the Bryan area."
   - organization: "The Aggieland Human Society"
     position: "Volunteer"
     website: "https://aggielandhumane.org/"
     startDate: "2016-08-01"
-    endDate: ""
+    endDate: "2017-03-04"
     summary: "The Aggieland Humane Society provides humane care and placement for homeless and abandoned animals, promotes the 
     human-animal bond and promotes responsible pet ownership to enhance the quality of life for the people and animals in our community."
+    highlights:
+      - "Assisted in groundskeeping to provide better living area for sheltered animals."
+      - "Cared for sheltered animals and assited staff with daily feeding and bathing."
   - organization: "The League of United Latin American Citizens (LULAC)"
     position: "Volunteer"
     website: "https://lulac.org/"
     startDate: "2018-08-01"
-    endDate: ""
+    endDate: "2019-02-1"
     summary: "LULAC is the largest and oldest Hispanic organization in the United States. LULAC advances the economic condition, 
     educational attainment, political influence, housing, health and civil rights of Hispanic Americans through community-based programs 
     operating at more than 1,000 LULAC councils nationwide. The organization involves and serves all Hispanic nationality groups."
+    highlights:
+      - "Met weekly with resident to play board games, chat, and help with various chores."
   - organization: "Adopt-A-Street"
     position: "Volunteer"
     website: "https://www.cstx.gov/departments___city_hall/publicworks/adopt-_a-_street_program"
@@ -200,6 +147,8 @@ volunteer:
     summary: "The City of College Station's Adopt-A-Street program was launched in the Fall of 1988 to provide residents, businesses, 
     neighborhood associations, community organizations, and student groups the opportunity to enhance the aesthetics of their community by 
     collecting litter within the right-of-way of a TxDOT or city-maintained street or section of a street."
+    highlights:
+      - "Cleaned fraternity street section and surrounding area three times a semester."
   - organization: "The Leadership Education for APIDA Development Conference (LEAD)"
     position: "Volunteer"
     website: "http://www.tamuapc.org/aboutlead"
@@ -207,12 +156,16 @@ volunteer:
     endDate: ""
     summary: "Leadership Education for APIDA Development (LEAD) is a one day conference hosted at Texas A&M. LEAD aims to support and 
     advocate for the Asian Pacific Islander Desi American (APIDA) community by fostering identity growth and leadership development. "
+    highlights:
+      - "Helped advertise event to APIDA student community, assisted in speaker outreach."
   - organization: "Habitat for Humanity"
     position: "Volunteer"
     website: "https://www.habitat.org/"
     startDate: "2018-08-01"
-    endDate: ""
+    endDate: "2020-04-01"
     summary: "Seeking to put God’s love into action, Habitat for Humanity brings people together to build homes, communities and hope."
+    highlights:
+      - "Helped with the painting and construction of several houses in the Bryan area."
        
            
 education:
@@ -251,6 +204,7 @@ education:
       - "PHYS 218 - Mechanics"
       - "MATH 152 - Engineering Math II"
       - "CSCE 206 - Structured Programming in C"
+
 awards:
   - title: "2020 ESRI Student Assistantship"
     date: "2020-05-01"
