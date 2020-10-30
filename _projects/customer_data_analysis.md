@@ -14,14 +14,8 @@ description: >
   Our research indicates that the distribution of these organizations reaches most of the continental United States, save for much of the Rocky Mountain regions, with the highest number and greatest diversity of operating organizations in the Northeast. By researching the temporal distribution of profit earned by TK Paddles, it becomes evident that “Paddle Gifting” is seasonal in nature, with the peaks centering around March and December. Our research reflects the current client base of TK Paddles and what entities should be pursued further in a cost-benefit analysis sense. 
 
 links:
-  - title:   Final Report
-    url:     https://docs.google.com/document/d/1Xqv-exeNcoeaWjS8tS1so7xyEDMv-kthhjIUJACZGKU/edit
-  - title:   Final Presentation
-    url:     https://drive.google.com/drive/folders/1Rh0lDuHfjWg8H8A9y6R8F-i2kHfniybZ
-  - title:   Python Code
-    url:     https://drive.google.com/drive/folders/117eVUX6FyCzgGQsJQG-Y5dDrQbsMbTd0
-  - title:   R Code
-    url:     https://drive.google.com/file/d/1uIF-qOwGPkueg64eu9p-OlZUaMzRc-4h/view?usp=sharing
+  - title:   Github Link
+    url:     https://github.com/SapirLastimoza-Dooley/customer_data_analysis
 featured:    true
 ---
 
