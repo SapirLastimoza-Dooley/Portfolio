@@ -3,7 +3,7 @@ layout:      project
 title:       "Instagram Webscraper"
 date:        10 Oct 2021
 image:
-  path:       
+  path:       assets/img/Polk_Seasons.jpg
  # srcset:
     #1920w:   /assets/img/blog/blog/hydejack-8.jpg
    # 960w:    /assets/img/blog/blog/hydejack-8.jpg
