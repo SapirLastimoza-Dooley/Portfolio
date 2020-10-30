@@ -38,3 +38,5 @@ Fig. 1: Spatial distribution of car crashes in Polk County and Scott County, IA 
 
 ![Monthly Heatmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/year_heatmap.png) | ![Monthly Distribution](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/monthly_distribution.png)
 
+Fig. 2(a): Clustering heatmap of car crashes monthly in Polk County (2013); (b): Monthly distribution of all car crashes in Polk County (2011-2016)
+{:.figcaption}
