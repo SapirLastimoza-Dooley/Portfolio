@@ -12,6 +12,11 @@ caption:     Analysis and visualization of trends in car sales data.
 description: >
   In this project, my team was tasked with applying statistical analysis to a single database of car sales to produce key numerical data. With this data, we then produced various infographics in order to make reasonable assumptions about the population.
 
+  Data Source: TAMU Programming I
+  Programs Used: Visual Studio Code, Pdoc Documentation Generator
+  Languages Used: Python- mathplotlib, numpy, pandas
+  Outcomes: Pie Charts, Bar Charts, Line Charts
+
 links:
   - title:   Github Link
     url:     https://github.com/SapirLastimoza-Dooley/database_analysis

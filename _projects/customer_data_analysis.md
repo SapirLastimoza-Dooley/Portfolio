@@ -13,6 +13,11 @@ description: >
   There are hundreds of individual Greek-Letter organizations in the United States, many of which have sub-branches or “chapters” numbering anywhere from two to fifty or more. Of these organizations, a little over one hundred are of Asian Pacific Islander Desi American (APIDA) backgrounds. It is in these organizations that the tradition of gifting decorative paddles - adorned with organizational letters and other customizations - is most common. Through our research, we have made several findings regarding the distributions of these organizations, the member and organization densities across the United States, and the temporal nature of the tradition. 
   Our research indicates that the distribution of these organizations reaches most of the continental United States, save for much of the Rocky Mountain regions, with the highest number and greatest diversity of operating organizations in the Northeast. By researching the temporal distribution of profit earned by TK Paddles, it becomes evident that “Paddle Gifting” is seasonal in nature, with the peaks centering around March and December. Our research reflects the current client base of TK Paddles and what entities should be pursued further in a cost-benefit analysis sense. 
 
+  Data Source: TK Paddles LLC
+  Programs Used: Rstudio, Jupyter Notebook
+  Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
+  Outcomes: Maps, Heatmaps
+
 links:
   - title:   Github Link
     url:     https://github.com/SapirLastimoza-Dooley/customer_data_analysis
