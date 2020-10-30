@@ -35,21 +35,21 @@ featured:    true
 Spatial distribution of car crashes in Polk County and Scott County, IA (2011-2016).
 
 
-![Monthly Heatmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/year_heatmap.png){: width="282px" height="431px" loading="lazy"}
+![Monthly Heatmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/year_heatmap.png){: width="432" loading="lazy"}
 Clustering Heatmap of car crashes monthly in Polk County (2013).
 
 
-![Monthly Distribution](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/monthly_distribution.png){: width="292px" height="304px" loading="lazy"}
+![Monthly Distribution](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/monthly_distribution.png){: width="432" loading="lazy"}
 Monthly distribution of all car crashes in Polk County (2011-2016)
 
 
-![Cluster Hitmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/clustering_heatmap_1.png){: width="538px" height="622px" loading="lazy"}
+![Cluster Hitmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/clustering_heatmap_1.png){: width="432" loading="lazy"}
 Hitmap for clustered data in Polk County.
 
 
-![Weekly Heatmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/week_heatmap.png)
+![Weekly Heatmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/week_heatmap.png){: width="432" loading="lazy"}
 
-Fig. 3(a): Clustering Heatmap of car crashes monthly in Polk County (2013).
+Fig. 3(a): Clustering Heatmap of car crashes daily in Polk County (2013).
 {:.figcaption}
 
 [
