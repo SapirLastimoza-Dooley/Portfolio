@@ -13,12 +13,8 @@ description: >
   In this project, my team was tasked with applying statistical analysis to a single database of car sales to produce key numerical data. With this data, we then produced various infographics in order to make reasonable assumptions about the population.
 
 links:
-  - title:   Python Code
-    url:     https://drive.google.com/file/d/1MT7epKVVbozMXHM-lnpYYDpVcCka29IX/view?usp=sharing
-  - title:   Documentation
-    url:     https://drive.google.com/file/d/180ghH32RnOV_zaHIuzIDXPWg1V4R9NLT/view?usp=sharing
-  - title:   Figures
-    url:     https://drive.google.com/drive/folders/1Y8tX46N2HtjoSx5vMX0yUZ69fwQBIZ-g?usp=sharing
+  - title:   Github Link
+    url:     https://github.com/SapirLastimoza-Dooley/database_analysis
 featured:    true
 ---
 
