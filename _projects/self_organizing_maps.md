@@ -28,7 +28,7 @@ featured:    true
 * Data Source: IOWA Department of Transportation
 * Programs Used: ArcPro, Visual Studio Code
 * Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
-* Outcomes: Maps, Heatmaps
+* Outcomes: Maps, Heatmaps, Charts
 
 ## Outcomes
 ![Crash Distribution](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/crash_distribution.png)
@@ -38,5 +38,15 @@ Fig. 1: Spatial distribution of car crashes in Polk County and Scott County, IA 
 
 ![Monthly Heatmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/year_heatmap.png) | ![Monthly Distribution](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/monthly_distribution.png)
 
-Fig. 2(a): Clustering heatmap of car crashes monthly in Polk County (2013); (b): Monthly distribution of all car crashes in Polk County (2011-2016)
+Fig. 2(a): Clustering Heatmap of car crashes monthly in Polk County (2013); (b): Monthly distribution of all car crashes in Polk County (2011-2016)
+{:.figcaption}
+
+![Cluster Hittmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/clustering_heatmap.png)
+
+Fig. 2(c): Hitmap for clustered data in Polk County.
+{:.figcaption}
+
+![Weekly Heatmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/week_heatmap.png)
+
+Fig. 3(a): Clustering Heatmap of car crashes monthly in Polk County (2013).
 {:.figcaption}
