@@ -20,7 +20,7 @@ links:
     url:     https://github.com/SapirLastimoza-Dooley/self_organizing_maps
 featured:    true
 ---
-
+# Self-Organizing Maps
 
 ## Summary
 * Project Lead: Shuyang Zhang
