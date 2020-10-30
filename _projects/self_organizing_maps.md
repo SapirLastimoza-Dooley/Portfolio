@@ -23,4 +23,4 @@ featured:    true
 - Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
 - Outcomes: Maps, Heatmaps
 
-![Full-width image](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/year_heatmap.png){:.lead width="800" height="100" loading="lazy"}
+![Full-width image](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/year_heatmap.png){:.lead width="400" height="50" loading="lazy"}
