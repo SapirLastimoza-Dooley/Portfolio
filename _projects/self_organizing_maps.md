@@ -23,12 +23,12 @@ featured:    true
 
 
 ## Summary
-- Project Lead: Shuyang Zhang
-- Project Members: Arielle Wood, Gabriel Ibiassi Nambila, Luke Anderton, Sapir Carlo Dooley
-- Data Source: IOWA Department of Transportation
-- Programs Used: ArcPro, Visual Studio Code
-- Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
-- Outcomes: Maps, Heatmaps
+* Project Lead: Shuyang Zhang
+* Project Members: Arielle Wood, Gabriel Ibiassi Nambila, Luke Anderton, Sapir Carlo Dooley
+* Data Source: IOWA Department of Transportation
+* Programs Used: ArcPro, Visual Studio Code
+* Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
+* Outcomes: Maps, Heatmaps
 
 ## Outcomes
 ![Crash Distribution](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/crash_distribution.png)
