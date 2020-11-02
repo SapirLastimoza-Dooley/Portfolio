@@ -17,7 +17,7 @@ links:
     url:     https://github.com/SapirLastimoza-Dooley/instagram_bot/tree/master
 featured:    true
 ---
-# Automated Database Analysis
+# Instagram Webscraper
 
 ## Summary
 * Project Lead: Sapir Carlo Dooley

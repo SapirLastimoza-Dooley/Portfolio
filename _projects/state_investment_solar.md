@@ -17,7 +17,7 @@ links:
     url:     https://github.com/SapirLastimoza-Dooley/state_investment_solar
 featured:    true
 ---
-# Automated Database Analysis
+# States and Solar Energy
 
 ## Summary
 * Project Lead: Sapir Carlo Dooley
