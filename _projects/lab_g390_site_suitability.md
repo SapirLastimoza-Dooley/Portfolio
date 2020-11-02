@@ -16,7 +16,7 @@ links:
     url:     https://github.com/SapirLastimoza-Dooley/390_labs/blob/main/site_suitability.pdf
 featured:    False
 ---
-# Geocoding
+# Site Suitability Analysis
 
 ## Summary
 * Data Source: Principles of GIS

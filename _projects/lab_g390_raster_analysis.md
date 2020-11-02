@@ -17,7 +17,7 @@ links:
     url:     https://github.com/SapirLastimoza-Dooley/390_labs/tree/main/raster_analysis
 featured:    False
 ---
-# Geocoding
+# Raster Analysis
 
 ## Summary
 * Data Source: NASA MODIS, National Operational Hydrologic Remote Sensing Center
