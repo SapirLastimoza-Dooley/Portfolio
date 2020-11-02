@@ -17,8 +17,12 @@ links:
     url:     https://github.com/SapirLastimoza-Dooley/instagram_bot/tree/master
 featured:    true
 ---
+# Automated Database Analysis
 
-- Data Source: Instagram
-- Programs Used: Visual Studio Code
-- Languages Used: Python- Selenium Webdriver, ArcPy
-- Outcomes: Automated Testing Script, Maps
+## Summary
+* Project Lead: Sapir Carlo Dooley
+* Project Members: Chibuike Imo
+* Data Source: Instagram
+* Programs Used: Visual Studio Code
+* Languages Used: Python- Selenium Webdriver, ArcPy
+* Outcomes: Automated Testing Script, Maps

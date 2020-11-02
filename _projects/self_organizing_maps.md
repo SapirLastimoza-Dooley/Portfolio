@@ -29,20 +29,3 @@ featured:    true
 * Programs Used: ArcPro, Visual Studio Code
 * Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
 * Outcomes: Maps, Heatmaps, Charts
-
-## Outcomes
-![Crash Distribution](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/crash_distribution.png){:.lead width="864px" height="667.86px" loading="lazy"}
-Spatial distribution of car crashes in Polk County and Scott County, IA (2011-2016).
-
-
-
-![Monthly Heatmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/monthly_heatmap.png){: width="400" loading="lazy"}![Monthly Distribution](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/monthly_distribution.png){: width="400\" loading="lazy"}
-Clustering Heatmap of car crashes monthly in Polk County (2013); Monthly distribution of all car crashes in Polk County (2011-2016).
-
-
-![Cluster Hitmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/clustering_heatmap.png){: width="432" loading="lazy"}
-Hitmap for clustered data in Polk County.
-
-
-![Weekly Heatmap](https://raw.githubusercontent.com/SapirLastimoza-Dooley/self_organizing_maps/main/figures/week_heatmap.png){: width="432" loading="lazy"}
-Clustering Heatmap of car crashes daily in Polk County (2013).

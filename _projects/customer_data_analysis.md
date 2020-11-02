@@ -18,10 +18,14 @@ links:
     url:     https://github.com/SapirLastimoza-Dooley/customer_data_analysis
 featured:    true
 ---
+# Customer Data Analysis: TK Paddles
 
-- Data Source: TK Paddles LLC
-- Programs Used: Rstudio, Jupyter Notebook
-- Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
-- Outcomes: Maps, Line Plots, Whisker Plots, Dot Plots
+## Summary
+* Project Lead: Sapir Carlo Dooley
+* Project Members: Emily Gill, Austin Pigg, Sedrick Utt
+* Data Source: TK Paddles LLC
+* Programs Used: Rstudio, Jupyter Notebook
+* Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
+* Outcomes: Maps, Line Plots, Whisker Plots, Dot Plots
 
 

@@ -17,9 +17,13 @@ links:
     url:     https://github.com/SapirLastimoza-Dooley/state_investment_solar
 featured:    true
 ---
+# Automated Database Analysis
 
-- Data Source: Solar Energy Industries Association, The Solar Foundation
-- Programs Used: ArcGIS Desktop, Excel
-- Outcomes: Maps
+## Summary
+* Project Lead: Sapir Carlo Dooley
+* Project Members: Minh Bui
+* Data Source: Solar Energy Industries Association, The Solar Foundation
+* Programs Used: ArcGIS Desktop, Excel
+* Outcomes: Maps
 
 

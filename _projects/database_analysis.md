@@ -17,8 +17,12 @@ links:
     url:     https://github.com/SapirLastimoza-Dooley/database_analysis
 featured:    true
 ---
+# Automated Database Analysis
 
-- Data Source: TAMU Programming I
-- Programs Used: Visual Studio Code, Pdoc Documentation Generator
-- Languages Used: Python- mathplotlib, numpy, pandas
-- Outcomes: Pie Charts, Bar Charts, Line Charts
+## Summary
+* Project Lead: Sapir Carlo Dooley
+* Project Members: Grant Tober, Tanner Hansard
+* Data Source: TAMU Programming I
+* Programs Used: Visual Studio Code, Pdoc Documentation Generator
+* Languages Used: Python- mathplotlib, numpy, pandas
+* Outcomes: Pie Charts, Bar Charts, Line Charts
