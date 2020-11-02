@@ -13,7 +13,7 @@ description: >
   In this project, my team was tasked with applying statistical analysis to a single database of car sales to produce key numerical data. With this data, we then produced various infographics in order to make reasonable assumptions about the population.
 
 links:
-  - title:   Github Link
+  - title:   Github
     url:     https://github.com/SapirLastimoza-Dooley/database_analysis
 featured:    true
 ---

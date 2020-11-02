@@ -13,8 +13,10 @@ description: >
   With the steady rise of solar energy technology and the growing movement towards finding alternatives to fossil fuels, it is easy to see the direction in which solar energy is heading. In the short time that solar energy has been available we have seen dramatic increases in solar energy output: not only commercial but residential as well. We have seen prices drop more than 30% and jobs created in multiple sectors. With the scientific community support, it is clear that the major obstacle to overcome is gaining the support of the general population; moreover, the support of state and federal government. It is our goal to show what current investment has brought the United States and what future investment may lead to.
 
 links:
-  - title:   Github Link
+  - title:   Github
     url:     https://github.com/SapirLastimoza-Dooley/state_investment_solar
+  - title:   Report
+    url:     https://github.com/SapirLastimoza-Dooley/state_investment_solar/blob/main/report.pdf
 featured:    true
 ---
 # States and Solar Energy
