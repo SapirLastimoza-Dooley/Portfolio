@@ -24,6 +24,6 @@ featured:    true
 * Project Members: Minh Bui
 * Data Source: Solar Energy Industries Association, The Solar Foundation
 * Programs Used: ArcGIS Desktop, Excel
-* Outcomes: Maps
+* Outcomes: Investment, Projected Growth, and Job Creation Distribution Maps
 
 

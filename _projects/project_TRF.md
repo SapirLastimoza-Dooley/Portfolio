@@ -26,6 +26,5 @@ featured:    true
 * Programs Used: National Geodetic Survey (NGS) Coordinate Conversion and Transformation Tool, RStudio
 * Hardware Used: Leica GNSS RTK Rover
 * Languages Used: R
-* Outcomes: Dot Plots
-
+* Outcomes: Velocity Change Dot plots
 

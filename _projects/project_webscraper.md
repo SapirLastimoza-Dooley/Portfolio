@@ -25,4 +25,4 @@ featured:    true
 * Data Source: Instagram
 * Programs Used: Visual Studio Code
 * Languages Used: Python- Selenium Webdriver, ArcPy
-* Outcomes: Automated Testing Script, Maps
+* Outcomes: Automated Testing Script, Potential Customer Maps

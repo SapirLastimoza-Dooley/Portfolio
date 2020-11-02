@@ -26,6 +26,6 @@ featured:    true
 * Data Source: TK Paddles LLC
 * Programs Used: Rstudio, Jupyter Notebook
 * Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
-* Outcomes: Maps, Line Plots, Whisker Plots, Dot Plots
+* Outcomes: Customer Distribution Maps, Profit Analysis Line, Whisker and Dot Plots
 
 

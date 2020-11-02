@@ -25,4 +25,4 @@ featured:    true
 * Data Source: IOWA Department of Transportation
 * Programs Used: ArcPro, Visual Studio Code
 * Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
-* Outcomes: Maps, Heatmaps, Charts
+* Outcomes: Spatial Distribution Maps, Temporal Distribution Heatmaps and Charts
