@@ -17,7 +17,7 @@ links:
     url:     https://github.com/SapirLastimoza-Dooley/390_labs/blob/main/digitization.pdf
 featured:    False
 ---
-# Geocoding
+# Digitization
 
 ## Summary
 * Data Source: Principles of GIS
