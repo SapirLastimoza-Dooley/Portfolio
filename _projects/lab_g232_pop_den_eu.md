@@ -20,6 +20,6 @@ featured:    False
 # Population Density Analysis in Europe
 
 ## Summary
-* Data Source: Eurostat
+* Data Source: CIA World Factbook, 2009
 * Programs Used: ArcGIS Desktop
 * Outcomes: Population Density Choropleth Map

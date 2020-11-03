@@ -17,9 +17,9 @@ links:
     url:     https://raw.githubusercontent.com/SapirLastimoza-Dooley/390_labs/main/eu_nat_inc_full.jpg
 featured:    False
 ---
-# Population Density Analysis
+# European Natural Rate of Increase
 
 ## Summary
-* Data Source: Eurostat
+* Data Source: CIA World Factbook, 2009
 * Programs Used: ArcGIS Desktop
 * Outcomes: Rate of Natural Increase Choropleth Map

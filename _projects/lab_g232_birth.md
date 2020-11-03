@@ -17,9 +17,9 @@ links:
     url:     https://raw.githubusercontent.com/SapirLastimoza-Dooley/390_labs/main/birth_death.jpg
 featured:    False
 ---
-# Population Density Analysis
+# European Birth and Death Rates
 
 ## Summary
-* Data Source: Eurostat
+* Data Source: CIA World Factbook, 2009
 * Programs Used: ArcGIS Desktop
-* Outcomes: Population Density Choropleth Map
+* Outcomes: Rate Choropleth Map
