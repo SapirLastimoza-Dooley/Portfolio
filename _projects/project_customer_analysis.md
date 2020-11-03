@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       "Customer Data Analysis: TK Paddles"
-date:        23 Apr 2020
+date:        01 May 2020
 image:
   path:       assets/img/FutureProspects.png
  # srcset:
