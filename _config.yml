@@ -79,6 +79,8 @@ collections:
   exclude:
     - blog.md
     - posts.md
+    - blog.html
+    - posts.html
 
 
 # Theme
