@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/Headshot.png
+image: /assets/img/Headshot.jpeg
 description: >
 
 hide_description: true
