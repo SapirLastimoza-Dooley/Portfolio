@@ -13,7 +13,7 @@ description: >
   In this project, I used ArcGIS Desktop to analyze the College Station, TX area for potential site locations based on customer requirments.
 links:
   - title:   Full Map
-    url:     https://github.com/SapirLastimoza-Dooley/390_labs/blob/main/site_suitability.pdf
+    url:     https://raw.githubusercontent.com/SapirLastimoza-Dooley/390_labs/main/suitability.jpg
 featured:    False
 ---
 # Site Suitability Analysis

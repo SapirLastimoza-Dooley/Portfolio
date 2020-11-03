@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       "Population Density Analysis"
+title:       "Population Density Analysis in the U.S."
 date:        01 Aug 2018
 image:
   path:       assets/img/pop_density.jpg
@@ -22,4 +22,4 @@ featured:    False
 ## Summary
 * Data Source: American Community Survey
 * Programs Used: ArcGIS Desktop
-* Outcomes: Population Density Map
+* Outcomes: Population Density Bubble Map

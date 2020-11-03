@@ -14,7 +14,7 @@ description: >
 
 links:
   - title:   Full Map
-    url:     https://github.com/SapirLastimoza-Dooley/390_labs/blob/main/geocoding.pdf
+    url:     https://raw.githubusercontent.com/SapirLastimoza-Dooley/390_labs/main/geocoding.jpg
 featured:    False
 ---
 # Geocoding

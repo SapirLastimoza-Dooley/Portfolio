@@ -13,8 +13,10 @@ description: >
   In this project, I used ArcGIS Desktop compare snow cover maps of the upper Rio Grande river valley and perform hillshade and coverage analysis.
 
 links:
-  - title:   Full Maps
-    url:     https://github.com/SapirLastimoza-Dooley/390_labs/tree/main/raster_analysis
+  - title:   Hillshade
+    url:     https://raw.githubusercontent.com/SapirLastimoza-Dooley/390_labs/main/hillshade.jpg
+  - title:   Coverage
+    url:     https://raw.githubusercontent.com/SapirLastimoza-Dooley/390_labs/main/snow_coverage.jpg
 featured:    False
 ---
 # Raster Analysis

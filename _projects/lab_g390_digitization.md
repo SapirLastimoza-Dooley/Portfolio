@@ -14,7 +14,7 @@ description: >
 
 links:
   - title:   Full Map
-    url:     https://github.com/SapirLastimoza-Dooley/390_labs/blob/main/digitization.pdf
+    url:     https://raw.githubusercontent.com/SapirLastimoza-Dooley/390_labs/main/digitization.jpg
 featured:    False
 ---
 # Digitization
