@@ -12,6 +12,9 @@ caption:     ArcGIS Storymap of TK Paddles LLC.
 description: >
   In this project, I used ArcGIS Story map to create a presentation on the founding and growth of my woodworking business, TK Paddles LLC.
 
+links:
+  - title:   Full StoryMap (ArcGIS Online Account Required)
+    url:     https://storymaps.arcgis.com/stories/253887671b754cd8a411254eb259f8dd
 featured:    False
 ---
 # Solar Employment Growth
@@ -21,4 +24,3 @@ featured:    False
 * Programs Used: HighCharts
 * Outcomes: Employment over time Line Chart
 
-<iframe src="https://storymaps.arcgis.com/stories/253887671b754cd8a411254eb259f8dd" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
