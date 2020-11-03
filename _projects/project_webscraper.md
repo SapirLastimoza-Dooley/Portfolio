@@ -1,7 +1,7 @@
 ---
 layout:      project
 title:       "Instagram Webscraper"
-date:        10 Oct 2021
+date:        10 Oct 2020
 image:
   path:       assets/img/work_in_progress.jpg
  # srcset:
