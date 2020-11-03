@@ -10,17 +10,17 @@ image:
    # 480w:    /assets/img/blog/blog/hydejack-8.jpg
 caption:     ArcGIS Storymap of TK Paddles LLC.
 description: >
-  In this project, I used ArcGIS Story map to create a presentation on the founding and growth of my woodworking business, TK Paddles LLC.
+  In this project, I used ArcGIS StoryMap to create a presentation on the founding and growth of my woodworking business, TK Paddles LLC.
 
 links:
   - title:   Full StoryMap (ArcGIS Online Account Required)
     url:     https://storymaps.arcgis.com/stories/253887671b754cd8a411254eb259f8dd
 featured:    False
 ---
-# Solar Employment Growth
+# Company Growth Story Map
 
 ## Summary
-* Data Source: The Solar Foundation
-* Programs Used: HighCharts
-* Outcomes: Employment over time Line Chart
+* Data Source: TK Paddles LLC.
+* Programs Used: ArcGIS StoryMaps
+* Outcomes: 2D StoryMap
 
