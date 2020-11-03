@@ -1,7 +1,7 @@
 # Config
 # ========================================================================================
 url:                   https://sapirlastimoza-dooley.github.io
-baseurl:               '/portfolio/about/'
+baseurl:               '/portfolio'
 
 # General settings
 # ---------------------------------------------------------------------------------------
