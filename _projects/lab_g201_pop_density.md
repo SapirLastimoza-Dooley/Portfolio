@@ -1,6 +1,6 @@
 ---
 layout:      project
-title:       "Population Density"
+title:       "Population Density Analysis"
 date:        01 Aug 2018
 image:
   path:       assets/img/pop_density.jpg
@@ -17,7 +17,7 @@ links:
     url:     https://raw.githubusercontent.com/SapirLastimoza-Dooley/390_labs/main/pop_density.jpg
 featured:    False
 ---
-# Digitization
+# Population Density Analysis
 
 ## Summary
 * Data Source: American Community Survey
