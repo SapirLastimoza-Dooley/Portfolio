@@ -26,7 +26,7 @@ work:
     startDate: "2020-05-01"
     endDate: "2020-10-16"
     highlights:
-      - "Created Python web scraper for collecting COVID-19 testing site and lock-down information using Beautiful Soup and Python Requests for storage in SQL database."
+      - "Created Python web scraper for collecting COVID-19 testing site and lock-down information for storage in SQL database."
       - "Performed geospatial characterization, analysis, and mapping using the collected county-level information."
       - "Contributed to the creation of data visualization maps, websites, and infographics using and/or drawn from the collected county-level information."
       - "Contributed to the creation of publications using and/or drawn from the collected county-level information."
