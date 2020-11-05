@@ -43,7 +43,7 @@ work:
     startDate: "2017-06-01"
     endDate: ""
     highlights:
-      - "Used Pandas and Numpy Python and Jupyter Notebook to analyze customer demographic and sales data. Produced infographics and digital visualizations to analyze data for spatio-temporal trends and predict future profit margins."
+      - "Used Pandas and Numpy Python libraries in Jupyter Notebook to analyze customer demographic and sales data. Produced infographics and cartographic visualizations to analyze data for spatio-temporal trends and predict future profit margins."
       - "Duplicated process in R using dplyr and ggplot2 packages to check for inconsistencies."
       - "Designed products using Carbide Create Computer Aided Design software for creation through CNC machining using the Computer Aided 
       Manufacturing Software Carbide 3D."
@@ -105,7 +105,7 @@ volunteer:
     website: "https://takingroot.info/"
     startDate: "2017-08-01"
     endDate: "2018-01-15"
-    summary: "Mission: To inspire and empower all to conserve and improve our region’s unique and threatened tree canopy"
+    summary: "Mission: Plant 2 million trees, expand practices that help retain and regenerate trees and forests, and increase the awareness of trees and forests; the benefits they provide; why we need them; and the threats they face."
     highlights:
       - "Planted over 500 trees to help restore areas around flooded lakes in Bryan/College Station."
       - "Assisted in the construction of new housing in the Bryan area."
