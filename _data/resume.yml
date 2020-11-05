@@ -24,10 +24,7 @@ work:
     position: "Student Research Assistant"
     website: "https://geography.tamu.edu/research/gist/index.html"
     startDate: "2020-05-01"
-    endDate: ""
-    summary: >
-      "Beginning in May the TAMU GIS department, under contract of the CDC
-      has been tasked with gathering data related to the COVID-19 pandemic."
+    endDate: "2020-10-16"
     highlights:
       - "Created Python web scraper for collecting COVID-19 testing site and lock-down information using Beautiful Soup and Python Requests for storage in SQL database."
       - "Performed geospatial characterization, analysis, and mapping using the collected county-level information."
@@ -38,9 +35,6 @@ work:
     website: "https://adjustingexpectations.com/"
     startDate: "2018-12-01"
     endDate: "2019-08-01"
-    summary: >
-      "I, along with a group of four others were tasked with updating the company's 
-      database of floodplain boundaries in Florida."
     highlights:
       - "Used Python Requests from Google Earth API to collect elevation and location data, cleaned and sorted data using xlwt Python library. Compared data to FEMA flood map data and produced infographics and digital visualizations using Python Pandas library."
   - company: "TK Paddles, LLC"
@@ -48,9 +42,6 @@ work:
     website: "https://tkpaddles95.wixsite.com/tkpaddles"
     startDate: "2017-06-01"
     endDate: ""
-    summary: >
-      "In honor of a long time friend, I and several fraternity brothers began this woodworking business in hopes that it could help with 
-      his hospital bills."
     highlights:
       - "Used Pandas and Numpy Python and Jupyter Notebook to analyze customer demographic and sales data. Produced infographics and digital visualizations to analyze data for spatio-temporal trends and predict future profit margins."
       - "Duplicated process in R using dplyr and ggplot2 packages to check for inconsistencies."
@@ -62,7 +53,6 @@ work:
     website: "https://www.instagram.com/40_tempura/?hl=en"
     startDate: "2016-12-01"
     endDate: ""
-    summary: 
     highlights:
     - "Trained incoming staff regarding workplace procedure, culture, and practices."
     - "Provided excellent customer service: worked closely with restaurant staff to ensure orders were served in an efficient manner."
