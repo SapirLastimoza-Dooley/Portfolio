@@ -10,7 +10,7 @@ image:
    # 480w:    /assets/img/blog/blog/hydejack-8.jpg
 caption:     Clustering analysis on the temporal characteristics of car crashes.
 description: >
-  The purpose of this project is to analyze vehichle crash data for spatial trends using ArcGIS Desktop and temporal trends using self-organizing maps through the sompy python library.
+  The purpose of this project is to analyze vehicle  crash data for spatial trends using ArcGIS Desktop and temporal trends using self-organizing maps through the sompy python library.
 
 links:
   - title:   Github
