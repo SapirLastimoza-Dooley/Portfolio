@@ -219,6 +219,8 @@ skills:
   - name: "GIS Development"
     keywords:
       - "ArcGIS Pro"
+      - "ArcGIS Desktop"
+      - "ArcGIS Online"
       - "ArcMap"
       - "Google Earth Engine"
       - "SQL Server"
@@ -226,6 +228,8 @@ skills:
       - "Mapbox"
       - "ENVI"
       - "ArcCatalog"
+      - "HighCharts"
+      - "ArcGIS StoryMap"
   - name: "Computational Analysis"
     keywords:
       - "Python 3"
@@ -265,6 +269,7 @@ skills:
       - "ArcGIS API"
       - "Google Earth API"
       - "JavaScript API"
+      - "Selenium Web Driver"
   - name: "Precision Machining"
     keywords:
       - "Carbide Motion / Create"
