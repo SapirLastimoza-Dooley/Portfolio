@@ -10,7 +10,7 @@ image:
    # 480w:    /assets/img/blog/blog/hydejack-8.jpg
 caption:     Customer demographics and sales analysis for TK Paddles, LLC.
 description: >
-  The purpose of this project is to analyze past customer location and business profit information to detect trends, produce meaningful infographics, and make reasonable predictions on future customer locations and business profit margins.
+  The purpose of this project is to analyze TK Paddles LLC sales data for trends in Python and R. Using information on customer location, related organization, sales number, and profit margin infographics and maps are produced depicting spatial and temporal trends. Using this information, reasonable predictions can be made on potential customer locations, future sales figures, and marketing strategies can be adjusted to account for areas where customer interaction is low.
 
 links:
   - title:   Github
@@ -31,6 +31,6 @@ featured:    true
 * Data Source: TK Paddles LLC
 * Programs Used: Rstudio, Jupyter Notebook
 * Languages Used: Python- ArcPy, sompy, mathplotlib, numpy, sklearn, multiprocessing, neighborhood, normalization
-* Outcomes: Customer Distribution Maps, Profit Analysis Line, Whisker and Dot Plots
+* Outcomes: Customer Distribution Graduated Symbol Maps, Profit Analysis Line, Whisker and Dot Plots
 
 

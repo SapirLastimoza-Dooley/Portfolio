@@ -10,7 +10,7 @@ image:
    # 480w:    /assets/img/blog/blog/hydejack-8.jpg
 caption:     Tool for automated webscraping of irregular data source.
 description: >
-  The purpose of this project is to create a Python script that will read an Instagram feed and collect information based on user-inputted criteria. This script is intended to solve the challenge of collecting customer-related information through Instagram at a large scale. With this script, the user should be able to simply run the program; the program will log in to a specified account and collect information, in this case: location data of users that fit a specific set of criteria. In this proposal we shall lay out the specific functions of the script as well as the criteria that will drive data collection. With this script, the user will have their stresses alleviated in regards to the marketing aspect of their company.
+  The purpose of this project is to create a tool for scraping atypically formatted data at a large scale from a website using automated testing software. In this instance, customer-related information will be collected from Instagram. With this tool, the user is able to automatically log in and search each post within the feed for specific keywords. If a keyword is found, the program will save the post and related information including: the author, the location of the post, and the link to the post. With this tool, marketing strategies can be streamlined and the stresses of social media marketing will be lightened.
 
 links:
   - title:   Github Link
@@ -25,4 +25,4 @@ featured:    true
 * Data Source: Instagram
 * Programs Used: Visual Studio Code
 * Languages Used: Python- Selenium Webdriver, ArcPy
-* Outcomes: Automated Testing Script, Potential Customer Maps
+* Outcomes: Automated Web Scraping Tool, Graduated Symbol Map of Potential Customer Location

@@ -10,7 +10,7 @@ image:
    # 480w:    /assets/img/blog/blog/hydejack-8.jpg
 caption:     Analysis and visualization of trends in car sales data.
 description: >
-  In this project, my team was tasked with applying statistical analysis to a single database of car sales to produce key numerical data. With this data, we then produced various infographics in order to make reasonable assumptions about the population.
+  The purpose of this project is to perform statistical analysis on a database of car dealership sales and produce key numerical data using Python. With this data, infographics depicting sales distribution based on different criteria are produced and reasonable assumptions about the total population can be made.
 
 links:
   - title:   Github
