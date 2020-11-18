@@ -78,6 +78,9 @@ work:
       - "Collaborated with a team of five students to analyze the effect of datum on spatial policy."
       - "Compared data collected with Leica GNSS RTK rover to NOAA base station data in R."
       - "Presented findings in the form of cartographic products made in ArcGIS Desktop."
+
+
+
 volunteer:
   - organization: "Beta Tau Omega Fraternity, Inc."
     position: "President, Head of Recruitment, Parliamentarian, Fundraising Chair, Treasurer, Choreography Chair"
@@ -106,6 +109,7 @@ volunteer:
     summary: "OSM HOT maps parts of the world's most remote locations to help aid workers respond more effectively to humanitarian emergencies like disease outbreaks, natural disasters, and more. "
     highlights:
       - "In collaboration with the 'Missing Maps community, helped digitize buildings in the Saptari district river basins of Nepal through OpenStreetMaps.'"
+      - "Recieved award for most building digitizations during 3 day mapathon at 1300"
   - organization: "Student Geosciences Council"
     position: "Fundraising Chair"
     website: "https://maroonlink.tamu.edu/organization/sgc"
