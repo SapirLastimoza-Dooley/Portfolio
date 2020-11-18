@@ -15,6 +15,8 @@ description: >
 links:
   - title:   Github Link
     url:     https://github.com/SapirLastimoza-Dooley/instagram_bot/tree/master
+  - title: Presentation
+    url:     https://docs.google.com/presentation/d/13vL_ZDYQc1HW3k-lkz8oLy4gXtQp-MxFIIPd7EB0odA/edit?usp=sharing
 featured:    true
 ---
 # Instagram Webscraper
