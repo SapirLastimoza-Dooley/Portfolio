@@ -25,6 +25,6 @@ featured:    true
 * Project Lead: Sapir Carlo Dooley
 * Project Members: Chibuike Imo
 * Data Source: Instagram
-* Programs Used: Visual Studio Code
+* Programs Used: ArcGIS Online, Visual Studio Code
 * Languages Used: Python- Selenium Webdriver, ArcPy
 * Outcomes: Automated Web Scraping Tool, Graduated Symbol Map of Potential Customer Location
