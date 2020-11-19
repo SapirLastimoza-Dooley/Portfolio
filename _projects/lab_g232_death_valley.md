@@ -22,4 +22,4 @@ featured:    False
 ## Summary
 * Data Source: US Census Beureau, 2002 Agricultural Census
 * Programs Used: ArcGIS Desktop
-* Outcomes: Isarythmic Map
+* Outcomes: Isarithmic  Map
