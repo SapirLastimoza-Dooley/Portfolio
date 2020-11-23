@@ -15,8 +15,10 @@ description: >
 links:
   - title:   Github Link
     url:     https://github.com/SapirLastimoza-Dooley/instagram_bot/tree/master
-  - title: Presentation
+  - title:   Presentation
     url:     https://docs.google.com/presentation/d/13vL_ZDYQc1HW3k-lkz8oLy4gXtQp-MxFIIPd7EB0odA/edit?usp=sharing
+  - title:   Report
+    url:     https://github.com/SapirLastimoza-Dooley/instagram_bot/blob/master/Reports/Report.pdf
 featured:    true
 ---
 # Instagram Webscraper
