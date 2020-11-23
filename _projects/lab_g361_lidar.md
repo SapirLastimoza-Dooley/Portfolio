@@ -15,6 +15,8 @@ description: >
 links:
   - title:   Report
     url:     https://github.com/SapirLastimoza-Dooley/390_labs/blob/main/LIDAR/Reports/point_cloud_analysis.pdf
+  - title:   3D Model
+    url:     https://raw.githubusercontent.com/SapirLastimoza-Dooley/390_labs/main/LIDAR/Figures/3d_model.jpg
 featured:    False
 ---
 # Lidar Point Cloud Analysis
