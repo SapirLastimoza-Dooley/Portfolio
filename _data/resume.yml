@@ -19,6 +19,20 @@ basics:
       username: "SapirLastimoza-Dooley"
       url: "https://github.com/SapirLastimoza-Dooley" 
 work:
+#  - company: "Texas A&M University, Department of Geography"
+#    position: "Student UI Test Developer"
+#    website: "https://geography.tamu.edu/research/gist/index.html"
+#    startDate: "2020-11-24"
+#    endDate: ""
+#    highlights:
+#      - "Designed and develop test harnesses; maintain testing framework and scripts using Cypress and JavaScript."
+#      - "Conceptualized and implemented new features for the test automation system within Azure; analyzed and managed requirements based on product needs, stability, and performance."
+#      - "Monitored test results, identify issues, and work with the team to resolve them."
+#      - "Maintained and improved reporting dashboard."
+#      - "Performed functional and workflow driven manual and automated testing to assess product quality and readiness."
+#      - "Provided feedback and recommendations to developers on software usability and functionality."
+#      - "Participated in product design reviews to provide input on QA requirements, product designs, schedules, or potential problems"
+
   - company: "TK Paddles, LLC"
     position: "Principal Owner"
     website: "https://tkpaddles95.wixsite.com/tkpaddles"
@@ -41,7 +55,7 @@ work:
     - "Trained incoming staff regarding workplace procedure, culture, and practices."
     - "Provided excellent customer service: worked closely with restaurant staff to ensure orders were served in an efficient manner."
     - "Refined multitasking, communication, and conflict resolution skills."
-  - company: "Texas A&M University"
+  - company: "Texas A&M University, Department of Geography"
     position: "Student Research Assistant"
     website: "https://geography.tamu.edu/research/gist/index.html"
     startDate: "2020-05-01"
@@ -318,6 +332,7 @@ skills:
     keywords:
     - "Web Development"
     - "Web Mapping"
+    - "End-to-End Testing"
   - name: "Kramdown"
     keywords:
     - "Design"
