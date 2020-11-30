@@ -332,6 +332,9 @@ skills:
     - "Web Development"
     - "Web Mapping"
     - "End-to-End Testing"
+    - "Unit Testing"
+    - "Selenium"
+    - "Cypress"
   - name: "Kramdown"
     keywords:
     - "Design"
