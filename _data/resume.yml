@@ -208,7 +208,7 @@ education:
     studyType: "Bachelor"
     startDate: "2018-08-24"
     endDate: "2021-05-04"
-    gpa: "3.733"
+    gpa: "3.623"
     courses:
       - "GEOG 476 - GIS Practicum"
       - "GEOG 361 - Remote Sensing in Geoscience"
