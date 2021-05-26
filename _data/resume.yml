@@ -27,7 +27,7 @@ work:
     highlights:
       - "Updated and maintained documentation for raster analysis python library xarray-spatial."
       - "Created Jupyter notebooks detailing workflow and use cases of library modules for open-source developers and clients."
-      - "Maintained company open-source infographic for open-source community and client outreach."
+      - "Maintained company open-source infographic for open-source community and client outreach using Yarn."
   - company: "Texas A&M University, Department of Geography"
     position: "Student Product Engineer"
     website: "https://geography.tamu.edu/research/gist/index.html"
@@ -380,6 +380,7 @@ skills:
     - "Visual Studio Code"
     - "Web Scraping"
     - "Web Mapping"
+    - "Raster Analysis"
   - name: "R"
     keywords:
     - "Database Analysis"
