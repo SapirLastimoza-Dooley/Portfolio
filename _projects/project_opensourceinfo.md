@@ -21,7 +21,7 @@ links:
     url:     https://github.com/makepath/xarray-spatial/blob/master/examples/cloudless-mosaic-sentinel2.ipynb
 featured:    true
 ---
-# Xarray-Spatial
+# Open Source Infographic
 
 ## Summary
 * Project Lead: Brenden Collins, Pablo Fuentes
