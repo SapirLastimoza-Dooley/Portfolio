@@ -1,30 +1,32 @@
 ---
 layout:      project
-title:       "Xarray-Spatial"
-date:        26 May 2021
+title:       "Instagram Webscraper"
+date:        10 Oct 2020
 image:
-  path:       assets/img/xarray-spatial.png
+  path:       assets/img/webscraper.png
  # srcset:
     #1920w:   /assets/img/blog/blog/hydejack-8.jpg
    # 960w:    /assets/img/blog/blog/hydejack-8.jpg
    # 480w:    /assets/img/blog/blog/hydejack-8.jpg
-caption:     Raster-Based Spatial Analysis Python Library
+caption:     Tool for automated webscraping of irregular data source.
 description: >
-  The purpose of this project is to provide an open-source tool for performing raster analysis on large datasets without the use of GDAL / GEOS. With tools ranging from classification, to multispectral analysis, to pathfinding. Xarray-Spatial gives the open-source community the ability to perform raster analysis quickly and easily through DASK and Numba integration.
+  The purpose of this project is to create a tool for scraping atypically formatted data at a large scale from a website using automated testing software. In this instance, customer-related information will be collected from Instagram. With this tool, the user is able to automatically log in and search each post within the feed for specific keywords. If a keyword is found, the program will save the post and related information including: the author, the location of the post, and the link to the post. With this tool, marketing strategies can be streamlined and the stresses of social media marketing will be lightened.
 
 links:
   - title:   Github Link
-    url:     https://github.com/makepath/xarray-spatial
-  - title:   Pharmacy Deserts
-    url:     https://github.com/makepath/xarray-spatial/blob/master/examples/pharmacy-deserts.ipynb
-  - title:   Cloudless Mosaic
-    url:     https://github.com/makepath/xarray-spatial/blob/master/examples/cloudless-mosaic-sentinel2.ipynb
+    url:     https://github.com/SapirLastimoza-Dooley/instagram_webscraper
+  - title:   Presentation
+    url:     https://docs.google.com/presentation/d/13vL_ZDYQc1HW3k-lkz8oLy4gXtQp-MxFIIPd7EB0odA/edit?usp=sharing
+  - title:   Report
+    url:     https://github.com/SapirLastimoza-Dooley/instagram_webscraper/blob/master/Reports/Final%20Report.pdf
 featured:    true
 ---
-# Xarray-Spatial
+# Instagram Webscraper
 
 ## Summary
-* Project Lead: Brenden Collins
-* Project Members: Thuy Do, Gian Castro, Chloe Taub, Sapir Carlo Dooley
-* Languages Used: Python
-* Outcomes: Raster Analysis library for large datasets
+* Project Lead: Sapir Carlo Dooley
+* Project Members: Chibuike Imo
+* Data Source: Instagram
+* Programs Used: ArcGIS Online, Visual Studio Code
+* Languages Used: Python- Selenium Webdriver, ArcPy
+* Outcomes: Automated Web Scraping Tool, Graduated Symbol Map of Potential Customer Location
