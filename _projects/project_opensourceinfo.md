@@ -17,8 +17,6 @@ links:
     url:     https://github.com/makepath/open-source-gis-infographic
   - title:   Infographic
     url:     https://makepath.github.io/open-source-gis-infographic/
-  - title:   Cloudless Mosaic
-    url:     https://github.com/makepath/xarray-spatial/blob/master/examples/cloudless-mosaic-sentinel2.ipynb
 featured:    true
 ---
 # Open Source Infographic
