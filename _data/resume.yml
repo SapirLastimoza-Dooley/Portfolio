@@ -383,6 +383,8 @@ skills:
     - "Web Scraping"
     - "Web Mapping"
     - "Raster Analysis"
+    - "Visual Testing"
+    - "Unit Testing"
   - name: "R"
     keywords:
     - "Database Analysis"
@@ -400,6 +402,10 @@ skills:
     keywords:
     - "Relational Analysis"
     - "Statistical Analysis"
+  - name: "TypeScript"
+    keywords:
+    - "Visual Testing"
+    - "Unit Testing"
   - name: "YAML"
     keywords:
     - "Design"
