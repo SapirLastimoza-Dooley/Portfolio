@@ -19,6 +19,13 @@ basics:
       username: "SapirLastimoza-Dooley"
       url: "https://github.com/SapirLastimoza-Dooley" 
 work:
+  - company: "Esri"
+    position: "Product Engineering Intern"
+    website: "https://www.esri.com/en-us/home"
+    startDate: "2021-06-14"
+    endDate: "2021-09-16"
+    highlights:
+    - ""
   - company: "makepath"
     position: "Software Development Associate"
     website: "https://makepath.com/"
